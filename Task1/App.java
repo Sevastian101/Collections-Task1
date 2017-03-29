@@ -1,6 +1,5 @@
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.Month;
+package Task1;
+
 import java.util.*;
 
 /**
@@ -13,7 +12,7 @@ public class App {
 
 
         WorkerHireDate W = new WorkerHireDate();
-//		ArrayList<Worker> list = new ArrayList();
+//		ArrayList<Task1.Worker> list = new ArrayList();
 //		list=W.workersReadyForTrip(LocalDateTime.of(2000, Month.APRIL, 1, 12, 12),LocalDateTime.of(2017, Month.APRIL, 1, 12, 12));
 //		System.out.println("**********************************");
 //		for(int i=0;i<list.size();i++){
